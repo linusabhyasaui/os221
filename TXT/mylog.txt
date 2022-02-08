@@ -1,3 +1,4 @@
 # Log Format 
 # ZCZC WEEK# MINUTES LogCode Description
 ZCZC W01 110 L02 Zoom Class
+ZCZC W01 - L21 Trying to install Linux on Old Computer
