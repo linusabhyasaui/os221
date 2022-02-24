@@ -3,3 +3,5 @@
 ZCZC W01 110 L02 Zoom Class
 ZCZC W01 10 L21 Trying to install Linux on Old Computer, Somewhat Successful
 ZCZC W02 85 L02 Zoom Class
+ZCZC W02 40 L11 Setting up Virtual box
+ZCZC W02 35 L00 Self study security
