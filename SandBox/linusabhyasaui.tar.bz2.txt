@@ -1,0 +1,4 @@
+version:     "0002--8-Mar-2022"
+copyright:   "2022"
+author:      "Linus Abhyasa"
+title:       "OS221: Operating Systems 2022-1"
