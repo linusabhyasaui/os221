@@ -10,3 +10,4 @@ ZCZC W03 30 L15 Catch Up Assignment Week 02
 ZCZC W03 10 L16 Catch Up Assignment Week 02
 ZCZC W04 100 L09 VB Catchup
 ZCZC W05 120 L12 Work on and finalize Assignment 02 of week 04
+ZCZC W05 40 L22 Quiz Makefile
